@@ -1,0 +1,6 @@
+[submodule "Free-RTOS-Queue-Example"]
+	path = Free-RTOS-Queue-Example
+	url = https://github.com/Widha893/FreeRTOS-Queue-Example
+[submodule "FreeRTOS-Mutex-Semaphore-Example"]
+	path = FreeRTOS-Mutex-Semaphore-Example
+	url = https://github.com/Widha893/FreeRTOS-Mutex-Semaphore-Example
